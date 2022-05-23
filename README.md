@@ -1,7 +1,7 @@
-# hello-africa
+# Hello World
 Creating my first repository
 <br>
-Hi Africans!
+Hello World!
 
-I'm Doyinsola from Lagos Nigeria, i love aesthetics and that is why i like front-end developers.
-To be a professional front-end developer i learnt html,CSS and javascript.
+I'm Doyinsola from Lagos Nigeria, i love aesthetics and all the hardwork that goes into software development.
+To be a professional software developer in 2022 I am improving on my skills which include HTML,CSS, JavaScript and Python by participating in all the tasks at the I4GxZuri Training.
